@@ -31,29 +31,61 @@ A Python-based Face Detection and Recognition System using OpenCV and Tkinter. T
 
 ## How to Run
 
-1. Install the required libraries:
-
-```bash
+### 1. Install the required libraries:
 pip install opencv-python==4.10.0.84
 pip install numpy
-2.Run the face detection system:
+
+### 2. Run the face detection system:
 python main.py
-3.To create a face dataset:
+
+### 3. To create a face dataset:
 python dataset.py
-4.Train the recognition model:
+
+### 4. Train the recognition model:
 python train.py
-5.Start face recognition:
+
+### 5. Start face recognition:
 python recognize.py
-6.To use the graphical interface:
+
+### 6. To use the graphical interface:
 python app.py
 
-## Applications
-Face-based identification
-Computer vision projects
-Attendance systems
-Security and access-control prototypes
-Learning and demonstration of face recognition
+## **Applications**
+* Face-based identification
+* Computer vision projects
+* Attendance systems
+* Security and access-control prototypes
+* Learning and demonstration of face recognition
 
-## Author
-Yadnyesh Sahebrao Saindane
-B.Tech Information Technology
+### 1. Install the required libraries:
+pip install opencv-python==4.10.0.84
+pip install numpy
+
+### 2. Run the face detection system:
+python main.py
+
+### 3. To create a face dataset:
+python dataset.py
+
+### 4. Train the recognition model:
+python train.py
+
+### 5. Start face recognition:
+python recognize.py
+
+### 6. To use the graphical interface:
+python app.py
+
+## **Applications**
+* Face-based identification
+* Computer vision projects
+* Attendance systems
+* Security and access-control prototypes
+* Learning and demonstration of face recognition
+
+## **Author**
+* **Yadnyesh Sahebrao Saindane**
+* **B.Tech Information Technology**
+
+
+
